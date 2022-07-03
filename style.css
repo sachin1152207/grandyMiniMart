@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+.font-ubuntu{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.space-between{
+    justify-content: space-between;
+}
+.dark-mode{
+    background-color: #121212;
+}
